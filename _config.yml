@@ -2,7 +2,7 @@ remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this th
 
 # Edit your preferences below 
 title: Yuvraj Bisht
-subtitle: Game Developer,Software Engineer
+subtitle: Game Developer, Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   Yuvraj is a software engineer with interests in Game Development
 
@@ -114,7 +114,5 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
-
-'
 
 
