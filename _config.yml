@@ -1,6 +1,6 @@
 ---
 title: Yuvraj Bisht
-timezone: UTC
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -12,7 +12,7 @@ remote_theme: sujaykundu777/devlopr-jekyll
 subtitle: Game Developer, Software Engineer
 description: Yuvraj is a software engineer with interests in Game Development
 url: http://yuvrajbisht.com
-baseurl: ''
+baseurl: 
 urls:
 - text: Blog
   url: "/blog"
