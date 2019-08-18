@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Welcome To Jekyll
+date: 2019-01-19 09:05:23 Z
+permalink: "/blog/hello-world"
+categories:
+- guides
+layout: post
 author: John Doe
-date: '2019-01-19 14:35:23 +0530'
-category: guides
-summary: Hello World 
+summary: Hello World
 thumbnail: 1.png
-permalink: /blog/hello-world
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
