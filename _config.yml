@@ -6,7 +6,7 @@ subtitle: Game Developer, Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   Yuvraj is a software engineer with interests in Game Development
 
-url: "https://yuvraj133.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "http://yuvrajbisht.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -21,10 +21,10 @@ urls:
 
 # Edit these details 
 
-author_logo: profile.png
+author_logo: profile.jpg
 author: Yuvraj 
 author_bio: Hi, My Name is Yuvraj. Game Developer and a Software Engineer. I live in Uttarakhand, India
-author_email: "yuvrajbisht13@gmail.com"
+author_email: "yuvrajbisht33@gmail.com"
 author_location: India
 author_website_url: "http://yuvrajbisht.com"
 
