@@ -22,7 +22,7 @@ urls:
   url: "/contact"
 - text: Sample Page
   url: "/sample-page"
-author_logo: profile.JPG
+author_logo: profile.jpg
 author: Yuvraj
 author_bio: Hi, My Name is Yuvraj. Game Developer and a Software Engineer. I live
   in Uttarakhand, India
