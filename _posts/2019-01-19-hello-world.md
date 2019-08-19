@@ -1,6 +1,6 @@
 ---
 title: Welcome To Jekyll
-date: 2019-01-19 09:05:23 Z
+date: 2019-01-19 14:35:23 +05:30
 permalink: "/blog/hello-world"
 categories:
 - guides
