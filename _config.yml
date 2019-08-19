@@ -34,13 +34,15 @@ author_work_experiences:
   company_logo: microsoft.png
   company_url: http://www.digifuse.co.in/
   designation: Marketing & Business Development Intern
-  description: Practically Experienced “Business Development Strategies” various aspects of marketing and the working of Marketing/Advertising company.
+  description: Practically Experienced “Business Development Strategies” various aspects
+    of marketing and the working of Marketing/Advertising company.
   visibility: true
 - company_name: Parallel Reality Ltd.
   company_logo: google.png
   company_url: http://parallelreality.co.uk/
   designation: Part-time Software Developer
-  description: Practically Experienced “Game Development”, “Quality Control” and “Quality assurance” aspects of the project in the company.
+  description: Practically Experienced “Game Development”, “Quality Control” and “Quality
+    assurance” aspects of the project in the company.
   visibility: true
 author_education_details:
 - college_logo: mit.png
