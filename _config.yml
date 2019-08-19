@@ -31,14 +31,14 @@ author_location: India
 author_website_url: http://yuvrajbisht.com
 author_work_experiences:
 - company_name: Digifuse
-  company_logo: "/uploads/digifuse.jpg"
+  company_logo: uploads/digifuse.jpg
   company_url: http://www.digifuse.co.in/
   designation: Marketing & Business Development Intern
   description: Practically Experienced “Business Development Strategies” various aspects
     of marketing and the working of Marketing/Advertising company.
   visibility: true
 - company_name: Parallel Reality Ltd.
-  company_logo: "/uploads/parallelreality.jpg"
+  company_logo: /uploads/parallelreality.jpg
   company_url: http://parallelreality.co.uk/
   designation: Part-time Software Developer
   description: Practically Experienced “Game Development”, “Quality Control” and “Quality
